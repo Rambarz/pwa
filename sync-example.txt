@@ -1,0 +1,12 @@
+# Sync Live Example:  
+
+## Link:https://quirky-rosalind-ac1e65.netlify.app/  
+
+## Anleitung:
+Besuchen Sie die Seite und suchen nach einen Film  
+Bevor Sie auf Details klicken, gehen Sie über die Entwickler Tools Offline  
+Klicken Sie den Lnk  
+Gehen Sie Online  
+Aktualisieren Sie die Seite  
+Detailseite sollte erfolgreich dargestellt werden  
+Schauen Sie sich die SYNC Timeline in den Entwickler Tools an  
